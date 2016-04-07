@@ -1,7 +1,8 @@
 nav.floating-nav {
   display: block;
-  position: fixed; }
-  nav.floating-nav ul li {
-    margin: 16em 0; }
+  position: fixed;
+  margin-top: 20em; }
+  nav.floating-nav a {
+    display: block; }
 
 /*# sourceMappingURL=styles.css.map */

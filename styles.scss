@@ -1,7 +1,11 @@
 nav.floating-nav{
   display: block;
   position: fixed;
-  ul li {
-    margin: 16em 0;
+  margin-top: 20em;
+  a {
+    display: block;
   }
+  //ul li {
+  //  margin: 16em 0;
+  //}
 }
