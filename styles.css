@@ -1,0 +1,7 @@
+nav.floating-nav {
+  display: block;
+  position: fixed; }
+  nav.floating-nav ul li {
+    margin: 16em 0; }
+
+/*# sourceMappingURL=styles.css.map */
